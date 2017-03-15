@@ -1,0 +1,496 @@
+﻿From - Wed Jan 25 08:41:04 2017
+X-Account-Key: account1
+X-UIDL: 0000000153df8b11
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <J364510-R12488@idgconnect-resources.com>
+Received: from mail11.idgconnect-resources.com (mail11.idgconnect-resources.com [65.79.165.112])
+	by green.eng.utoledo.edu (8.13.8/8.13.8/1.4) with ESMTP id s74DUp0i016800
+	for <gheuring@eng.utoledo.edu>; Mon, 4 Aug 2014 09:30:56 -0400 (EDT)
+Date: Mon, 4 Aug 2014 09:30:51 -0400 (EDT)
+Message-Id: <201408041330.s74DUp0i016800@green.eng.utoledo.edu>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=idgconnect-resources.com;
+ h=From:To:Subject:Mime-Version:List-Unsubscribe:Content-Type; i=IDGConnect@idgconnect-resources.com;
+ bh=Vfwlszg5FhCTddwo5jDPb76RoCQ=;
+ b=cik2XQ4C9uab+fAYLmIOTRDbqQmxElDfXvXqbCdlA2Lp7VTyuVpL0NZQO4w8VXiHJ6A1t/uDnLRU
+   msswRm5CLl3Fs5RZT96OwAH4dHf5+iJsv2QFOViU4W7HLRgRntwpa8+2u+6l9TLY0GGhUBarAEfu
+   dGhBHHAntEJ27rIemEI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=idgconnect-resources.com;
+ b=bUjIKfm8OC9/6+gu4pj878RXgmwJCnT7r5FpD7khV2X6pIedNmV/QIQjetaR76mFBZYej1KvFsNU
+   MA7nAfLVj+76xLYsHRyD/oZ8X48KKT82CAMA2eXFgCq6Nt8c5jlkIyHlka277romu1NpENoIrswN
+   6mAiY9JwrrjNGc3tzKM=;
+Received: from v12smtp1 (127.0.0.1) by mail11.idgconnect-resources.com id hru5gi17bi48 for <gheuring@eng.utoledo.edu>; Mon, 4 Aug 2014 09:03:24 -0400 (envelope-from <J364510-R12488@idgconnect-resources.com>)
+x-sender: "IDG Connect "<IDGConnect@idgconnect-resources.com>
+x-receiver: gheuring@eng.utoledo.edu
+x-job: 364510_2014_Aug04_Veeam_June-July'14_Live_Webinar
+From: "IDG Connect "<IDGConnect@idgconnect-resources.com>
+To: <gheuring@eng.utoledo.edu>
+Subject: Embrace Virtualization With the Right Backup Solution
+Mime-Version: 1.0
+List-Unsubscribe: <mailto:oo-J364510-R12488@idgconnect-resources.com>
+Content-Type: multipart/alternative; boundary="---- Main boundary ----"
+X-Filter-Version: 1.14 (green.eng.utoledo.edu)
+
+This is a multi-part message in mime format.
+
+------ Main boundary ----
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Maximize Your Investment in Hyper-V
+
+Backup is all about recovery, and sometimes recovery can be tricky in =
+Microsoft Hyper - V environments. You need a backup not only built to =
+handle the complexity of virtualization, but built embracing =
+virtualization and the needs of today's modern data center. Join this =
+webinar on Wednesday 21st August at 11am EDT to learn how to recover =
+exactly what you need in minutes from backups you can trust.
+
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419046
+
+Kind regards
+
+IDG Connect
+
+P.S:  Discover how to save big on your modern data center.
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419047
+
+
+Forward this mailer to a Friend/Colleague
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419048
+
+Find us on:
+Facebook
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419049
+Twitter
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419050
+LinkedIn
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419051
+RSS Feed
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419052
+
+----------------------------
+If you do not wish to receive any further emails click here.
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419053
+----------------------------
+Contact us if you need any assistance or additional information.
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419054
+
+IDGnect's Privacy Policyyright B) 2014. All rights reserved.
+http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&L=3D1419055
+
+IDGnect, Staines One, Station Approach, Staines Middlesex, TW18 4LY, UK.
+www.idgconnect
+
+
+
+------ Main boundary ----
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "%//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1%transitional.dtd">
+<HTML =
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>IDG Connect =
+Email</TITLE>
+<META content=3D"text/html; charset=3Dutf%8" =
+http%equiv=3D"Content%Type"></HEAD>
+<BODY>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+align=3Dcenter>
+<TBODY>
+<TR>
+<TD vAlign=3Dtop>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D600 =
+align=3Dcenter>
+<TBODY>
+<TR>
+<TD height=3D20 colSpan=3D16>&nbsp;</TD></TR>
+<TR>
+<TD height=3D34 colSpan=3D16><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419056"><IMG alt=3D"IDG Connect Logo" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/idgconnectlarg=
+e.jpg"></A></TD></TR>
+<TR>
+<TD height=3D21 colSpan=3D16>&nbsp;</TD></TR>
+<TR>
+<TD><IMG alt=3D"Discover Worldwide Business Knowledge" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/header.jpg" =
+width=3D600 height=3D30></TD></TR>
+<TR>
+<TD height=3D10>&nbsp;</TD></TR>
+<TR>
+<TD height=3D30 colSpan=3D16><IMG alt=3D"gry arrow" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" =
+width=3D14 height=3D11> <FONT size=3D+0><B><A style=3D"COLOR: =
+rgb(120,36,93); TEXT-DECORATION: none" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419057"><FONT color=3D#78245d size=3D2 face=3D"Arial, Helvetica, =
+sans%serif"><B>Maximize Your Investment in =
+Hyper-V</B></FONT></A></B></FONT></TD></TR>
+<TR>
+<TD height=3D30>&nbsp;</TD></TR>
+<TR>
+<TD><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">Backup is all about recovery, and sometimes recovery can be =
+tricky in Microsoft Hyper - V environments. You need a backup not only =
+built to handle the complexity of virtualization, but built embracing =
+virtualization and the needs of today's modern data center. </FONT><FONT =
+color=3D#4a5978 size=3D2 face=3D"Arial, Helvetica, sans%serif"><STRONG><A =
+style=3D"COLOR: rgb(74,89,120); TEXT-DECORATION: none" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419058">Join this webinar on Wednesday 21st August at 11am =
+EDT</A></STRONG></FONT><FONT color=3D#636976 size=3D2 face=3D"Arial, =
+Helvetica, sans%serif"> to learn how to recover exactly what you need in =
+minutes from backups you can trust.</FONT></TD></TR>
+<TR>
+<TD height=3D10>&nbsp;</TD></TR>
+<TR>
+<TD height=3D31 colSpan=3D16><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419059"><IMG border=3D0 alt=3D"Download Button" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_=
+R2_register.jpg" width=3D184 height=3D31></A></TD></TR>
+<TR>
+<TD height=3D30>&nbsp;</TD></TR>
+<TR>
+<TD width=3D613 colSpan=3D14>
+<P><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">Kind regards<BR><BR><BR>IDG Connect</FONT></P>
+<P><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">P.S: </FONT><FONT color=3D#4a5978 size=3D2 face=3D"Arial, =
+Helvetica, sans%serif"><STRONG><A style=3D"COLOR: rgb(74,89,120); =
+TEXT-DECORATION: none" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419060">Discover</A></STRONG></FONT><FONT color=3D#636976 size=3D2 =
+face=3D"Arial, Helvetica, sans%serif"> how to save big on your modern data =
+center.</FONT><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif"><BR><BR><BR></FONT></P></TD></TR>
+<TR>
+<TD>
+<TABLE width=3D600>
+<TBODY>
+<TR>
+<TD vAlign=3Dtop width=3D14><IMG alt=3D"gry arrow" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" =
+width=3D14 height=3D11></TD>
+<TD height=3D55 vAlign=3Dtop><FONT color=3D#4a5978 size=3D2 face=3D"Arial, =
+Helvetica, sans%serif"><STRONG><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419061">Forward this mailer to a =
+Friend/Colleague</A></STRONG></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD vAlign=3Dcenter>
+<TABLE width=3D500 height=3D40>
+<TBODY>
+<TR>
+<TD width=3D70><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">Find us on:</FONT></TD>
+<TD width=3D20><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419062"><IMG border=3D0 alt=3DFacebook =
+src=3D"http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_=
+R2_23.jpg" width=3D16 height=3D16></A></TD>
+<TD width=3D60><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419063"><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">Facebook</FONT></A></TD>
+<TD width=3D20><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419064"><IMG border=3D0 alt=3DTwitter =
+src=3D"http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_=
+R2_25.jpg" width=3D16 height=3D16></A></TD>
+<TD width=3D45><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419065"><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">Twitter</FONT></A></TD>
+<TD width=3D20><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419066"><IMG border=3D0 alt=3DLinkedIn =
+src=3D"http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_=
+R2_27.jpg" width=3D16 height=3D16></A></TD>
+<TD width=3D55><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419067"><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">LinkedIn</FONT></A></TD>
+<TD width=3D20><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419068"><IMG border=3D0 alt=3D"RSS Feed" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_=
+R2_29.jpg" width=3D16 height=3D16></A></TD>
+<TD width=3D60><A =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419069"><FONT color=3D#636976 size=3D2 face=3D"Arial, Helvetica, =
+sans%serif">RSS Feed</FONT></A></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height=3D30 vAlign=3Dcenter colSpan=3D14><FONT color=3D#4a5978 =
+size=3D2 face=3D"Arial, Helvetica, sans%serif">If you do not wish to =
+receive any further emails <STRONG><A style=3D"COLOR: rgb(74,89,120)" =
+title=3Dunsubscribe =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419070">click here</A></STRONG></FONT></TD></TR>
+<TR>
+<TD height=3D30 vAlign=3Dcenter colSpan=3D14><FONT color=3D#4a5978 =
+size=3D2 face=3D"Arial, Helvetica, sans%serif"><STRONG><A style=3D"COLOR: =
+rgb(74,89,120)" title=3D"Contact us" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419071">Contact us</A></STRONG> if you need any assistance or =
+additional information.</FONT></TD></TR>
+<TR>
+<TD height=3D14 colSpan=3D14>&nbsp;</TD></TR>
+<TR>
+<TD height=3D15 width=3D613 colSpan=3D4><IMG alt=3D"IDG Connect" =
+src=3D"http://www.idgconnect-resources.com/images/s45348/idgconnectsmal=
+l.jpg" width=3D50 height=3D23></TD></TR>
+<TR>
+<TD height=3D57 width=3D613 colSpan=3D13><FONT color=3D#636976 size=3D1 =
+face=3D"Arial, Helvetica, sans%serif">IDG Connect's <A style=3D"COLOR: =
+rgb(74,89,120)" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419072">Privacy Policy</A> Copyright B) 2014. All rights =
+reserved.<BR>IDG Connect, Staines One, Station Approach, Staines =
+Middlesex, TW18 4LY, UK.<BR><STRONG><A style=3D"COLOR: rgb(74,89,120)" =
+href=3D"http://www.idgconnect-resources.com/rt.asp?I=3D58FDEX30C8X8&amp;=
+L=3D1419073">www.idgconnect.com</A></STRONG></FONT></TD></TR></TBODY></T=
+ABLE></TD></TR></TBODY></TABLE><IMG =
+src=3D"http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=3DDM_LOC=3Dh=
+ttp://www.idg.com/?rt_value=3De_job%%CI_JobTitle%%&amp;DM_EOM=3D1&amp;C=
+=3DG12356&amp;L=3D0&amp;tgt=3Dhttp://pix04.revsci.net/G12356/b3/0/3/nosc=
+ript.gif?D=3DDM_LOC=3Dhttp://www.idg.com/?rt_value=3De_job%%CI_JobTitle%=
+%&amp;DM_EOM=3D1&amp;C=3DG12356&amp;L=3D0" width=3D1 height=3D1> <IMG =
+src=3D"http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=3DDM_LOC=3Dh=
+ttp://www.idg.com/?rt_value=3De_ind%%CI_Industry%%&amp;DM_EOM=3D1&amp;C=
+=3DG12356&amp;L=3D0&amp;tgt=3Dhttp://pix04.revsci.net/G12356/b3/0/3/nosc=
+ript.gif?D=3DDM_LOC=3Dhttp://www.idg.com/?rt_value=3De_ind%%CI_Industry%=
+%&amp;DM_EOM=3D1&amp;C=3DG12356&amp;L=3D0" width=3D1 height=3D1> <IMG =
+src=3D"http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=3DDM_LOC=3Dh=
+ttp://www.idg.com/?rt_value=3De_csz%%CI_Employees%%&amp;DM_EOM=3D1&amp;C=
+=3DG12356&amp;L=3D0&amp;tgt=3Dhttp://pix04.revsci.net/G12356/b3/0/3/nosc=
+ript.gif?D=3DDM_LOC=3Dhttp://www.idg.com/?rt_value=3De_csz%%CI_Employees=
+%%&amp;DM_EOM=3D1&amp;C=3DG12356&amp;L=3D0" width=3D1 =
+height=3D1></BODY><img =
+src=3D"http://www.idgconnect-resources.com/ho.asp?I=3D58FDEX30C8X8&L=3D1=
+419045" width=3D1 height=3D3><img =
+src=3D"https://pixel.monitor1.returnpath.net/pixel.gif?r=3D4c86012ae22d4=
+4496acf724f38c064fd9b5e5697&s=3D12488&c=3D364510" width=3D"1" height=3D"1" =
+/><img =
+src=3D"http://miq.idgconnect-resources.com/C332R99A.gif?cid=3D58FDEX30C8=
+X8&mid=3D100553" width=3D"1" height=3D"3"/><a =
+href=3D"http://www.idgconnect-resources.com/ts.asp?I=3D58FDEX30C8X8"><img =
+src=3D"http://www.idgconnect-resources.com/images/spacer.gif" width=3D"1" =
+height=3D"3" border=3D"0"/></a></HTML>
+
+
+------ Main boundary ------
+						<tbody>
+																<tr>
+																	<td style="padding: 0;">
+																		<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title main" style="float: left; min-width: 100px;">
+																							<tbody>
+																								<tr>
+<!-- logo -->																									<td style="padding: 0 30px 8px 0; margin: 0;">
+																										<h1 style="margin-bottom: 0;">
+																											<a href="http://online.networkworld.com/t/9118765/708476790/28335/6/" style="font-size: 28px; font-weight: bold; color: #333333; text-decoration: none;" target="_blank"><img alt="NETWORKWORLD" border="0" src="http://idge.staticworld.net/nww/nww-logo-final.png" style="display: block" width="150" /></a></h1>
+																									</td>
+																								</tr>
+<!-- /logo -->																								<tr>
+																									<td style="margin: 0; padding: 0 0 35px 0;">
+																										<h5 style="font-size: 22px; font-weight: 500; white-space: nowrap; font-family: Georgia, Arial, Helvetica, sans-serif; margin: 0; color: #000000;">
+																											Business Management Alert</h5>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  BEGIN PRIMARY  -->																				<tr>
+																					<td style="padding: 0 0 10px 0;">
+																						<table cellpadding="0" cellspacing="0" class="mainTitle" style="margin: 0; width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column title">
+																											<tbody>
+																												<tr>
+																													<td style="float: left; min-width: 100px; max-width: 380px; padding: 0 20px 8px 0;">
+																														<h3 style="margin: 0;">
+																															<a href="http://online.networkworld.com/t/9118765/708476790/548705/7/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=45fe1a55" style="color: #0F7CC2; font-size: 21px; line-height: 23px; font-weight: bold; text-decoration: none; font-family: Arial, Helvetica, sans-serif;" target="_blank">The eCommerce Edge: Integrated Cross-Enterprise Performance Management</a></h3>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table align="left" cellpadding="0" cellspacing="0" class="column reg" style="min-width: 100px;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0;">
+																															<a class="regButton" href="http://online.networkworld.com/t/9118765/708476790/548705/8/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=bc4ac2a1" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; white-space: nowrap;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 0;">
+																						<p style="margin: 0; font-weight: normal; font-size:15px; line-height:22px; color: #333333; font-style: normal; font-family: Arial, Helvetica, sans-serif;">
+																							Mainframes continue to be the engine of eCommerce, with downtime so costly, IT must find a way to keep applications up and running. This Infographic highlights how to:<br />- Quantify lost productivity and revenue from eCommerce application downtime<br />- Leverage cross-platform enterprise application management<br />- Save mainframe experts for mainframe-only problems</p>
+																					</td>
+																				</tr>
+																				<tr>
+																					<td style="padding: 15px 0 30px;">
+																						<table cellpadding="0" cellspacing="0" class="social" style="width: 100%;" width="100%">
+																							<tbody>
+																								<tr>
+																									<td>
+																										<table align="left" border="0" cellpadding="0" cellspacing="0" class="column reg" style="float: left; min-width: 100px; margin: 0 20px 5px 0;">
+																											<tbody>
+																												<tr>
+																													<td style="margin: 0; border-top: 2px solid #338cc5; border-right: 14px solid #338cc5; border-bottom: 2px solid #338cc5; border-left: 14px solid #338cc5; border-radius: 6px 6px 6px 6px; background: #338cc5; padding: 8px; white-space: nowrap;" valign="middle">
+																														<h5 style="margin: 0; text-wrap: none; white-space: nowrap;">
+																															<a class="regButton" href="http://online.networkworld.com/t/9118765/708476790/548705/9/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=a631284c" style="color: #ffffff; font-size: 16px; text-decoration: none; font-weight: bold; text-wrap: none; white-space: nowrap; font-family: Arial, Helvetica, sans-serif;" target="_blank">Learn More</a></h5>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																										<table cellpadding="0" cellspacing="0" style="padding-top: 5px;">
+																											<tbody>
+																												<tr>
+																													<td style="padding-right: 5px;">
+																														<a href="http://online.networkworld.com/t/9118765/708476790/548706/10/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=7e11936f" target="_blank"><img alt="TW" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_twitter.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://online.networkworld.com/t/9118765/708476790/548707/11/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=13f458dc" target="_blank"><img alt="FB" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_facebook.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://online.networkworld.com/t/9118765/708476790/548708/12/?3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=ec85cc72" target="_blank"><img alt="LI" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/insider_linkedin.png" width="24" /></a></td>
+																													<td style="padding-right: 5px;">
+																														<a href="http://online.networkworld.com/t/9118765/708476790/135556/13/?e5e2987d=OTExODc2NQ%3d%3d&0fc84754=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=b7d7e51e" target="_blank"><img alt="EM" border="0" src="http://computerworld.com.edgesuite.net/newsletter_images/st-arrow_24x24.jpg" width="24" /></a></td>
+																													<td style="white-space: nowrap;">
+																														<a href="http://online.networkworld.com/t/9118765/708476790/135556/19/?e5e2987d=OTExODc2NQ%3d%3d&0fc84754=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=b96e50b3" style="font-size: 13px; font-family: Arial; color: #0F7CC2; font-weight: bold; white-space: nowrap; text-decoration: none;" target="_blank">Share this email</a></td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+<!--  END PRIMARY ARTICLE  -->																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table cellpadding="0" cellspacing="0" class="column" style="float: left; width: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="padding: 20px 0 0 0;">
+																						<table align="left" border="0" cellspacing="0" class="column" style="float: left; width: 100%;">
+																							<tbody>
+																								<tr>
+																									<td style="border-left: 10px solid #cccccc; padding: 0 0 0 20px;">
+																										<h3 style="font-size: 16px; font-weight: 900; color: #333333; font-family: Arial, Helvetica, sans-serif; margin-bottom: 15px;">
+																											Additional Resources</h3>
+																										<p style="font-size: 14px; font-weight: normal; line-height: 22px; margin-bottom: 10px;">
+																											<a href="http://online.networkworld.com/t/9118765/708476790/544046/20/" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #0F7CC2; text-decoration: none;">Top Reasons for Upgrading to Emulex Gen 5 Fibre Channel HBAs</a></p>
+																									</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+<!-- FOOTER -->		<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" style="background-color: #f2f2f2; width: 100%;">
+			<tbody>
+				<tr>
+					<td>
+						<table bgcolor="#f2f2f2" cellpadding="0" cellspacing="0" class="footer-wrap" style="background-color: #f2f2f2; max-width: 600px; margin: 0 auto;">
+							<tbody>
+								<tr>
+									<td class="container" style="clear: both; display:block; margin: 0 auto; max-width: 600px;">
+										<table cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td style="padding: 25px 10px 15px;">
+														<h3 style="font-weight:900; font-size: 18px; color: #333333; line-height: 22px; font-family:Arial, Helvetica, sans-serif; margin: 0;">
+															Subscription Services</h3>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															You are subscribed to <em style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">nwwalerts_bizmngmnt</em> as <em style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">gheuring@eng.utoledo.edu</em>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 10px 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://online.networkworld.com/t/9118765/708476790/25702/21/?90482085=aHR0cDovL29ubGluZS5uZXR3b3Jrd29ybGQuY29tL3U%2faWQ9NzA4NDc2NzkwLmI1ZTM0NjA4NDM0NzAwOWE4NTZhMGQwNWE3ZjQ5NDA3Jm49VCZsPW53d2FsZXJ0c19iaXptbmdtbnQmbz05MTE4NzY1&x=0c31027d" style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from <em style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">nwwalerts_bizmngmnt</em></p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 0 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Please <a href="http://online.networkworld.com/t/9118765/708476790/388834/22/?f566cc7b=NzA4NDc2NzkwLmI1ZTM0NjA4NDM0NzAwOWE4NTZhMGQwNWE3ZjQ5NDA3&e5e2987d=OTExODc2NQ%3d%3d&3e076d18=Z2hldXJpbmdAZW5nLnV0b2xlZG8uZWR1&x=29a6343f" style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">click here</a> to unsubscribe from all Networkworld alerts.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px 10px 0 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															When accessing content promoted in this email, you are providing consent for your information to be shared with the sponsors of the content.&nbsp; Please see our Privacy Policy for more information.</p>
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Â&nbsp;</p>
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															View Networkworld's online <a href="http://online.networkworld.com/t/9118765/708476790/22562/23/" style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">privacy policy</a>.</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="padding: 10px;">
+														<p style="font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px; color: #333333; margin: 0;">
+															Copyright 2014 | Networkworld Inc. | 492 Old Connecticut Path | Framingham MA 01701 | <a href="http://online.networkworld.com/t/9118765/708476790/28335/24/" style="color: #0f7cc2; text-decoration: none; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-weight: normal; line-height: 18px;">http://www.networkworld.com/</a>.</p>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+<!-- /FOOTER -->	<IMG ALT="" SRC="http://online.networkworld.com/db/9118765/708476790/1.gif" WIDTH=1 HEIGHT=1></body>
+</html>
+
+
+--MIMEBoundary15e26f631aec9babbd8353cb62b4dc62--
+
