@@ -21,9 +21,15 @@
     <ClCompile Include="Mailbox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MailServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mailbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MailServer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

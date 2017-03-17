@@ -8,6 +8,14 @@
 #include <iterator>
 #include <numeric>
 #include "Mailbox.h"
+#include "MailServer.h"
+
+#ifdef _WIN32
+#include <Windows.h>
+#elif defined __linux__
+#include <termios.h>
+#include <unistd.h>
+#endif
 
 using namespace std;
 
@@ -31,6 +39,7 @@ int main() {
 
 	//Creates a mailbox object
 	Mailbox *mbox = new Mailbox();
+	MailServer *mailSrv = new MailServer();
 
 	int notBlank;
 	bool firstOpen;
@@ -46,9 +55,10 @@ int main() {
 			cout << "Starting Mailbox Options:" << endl;
 			cout << "- Please enter a mailfile to open (example: sampleMbox.txt) OR if you want a default mailbox type (\"default\") and \"mbox.txt\" will open" << endl;
 			cout << "- If you want a blank file type: \"blank.txt\"" << endl;
-			cout << "- To open another mailbox file type later in the program type: \"Enter\" and then use command \"open\"" << endl;
+			cout << "- To open another mailbox file type, such as POP3, type: \"Enter\" and then use command \"open\" or \"POP3Server\"" << endl;
 			cout << "----------------------------------------------------------------------------------------------------------------------------------------" << endl;
 			
+
 			cin >> file;
 			mbox->fileInput.push_back(file); 
 			keepFile = mbox->fileInput[0];
@@ -68,6 +78,10 @@ int main() {
 				mbox->fileInput.push_back(fileUsed);
 
 				cout << "Test" << endl;
+				firstOpen = true;
+			} else if (file == "POP3Server") {
+				menuOptions();
+				cin >> input;
 				firstOpen = true;
 			}
 			//open external mailbox file
@@ -105,8 +119,7 @@ int main() {
 
 			menuOptions();
 			cin >> input;
-		}
-		else if (input == "open") {
+		} else if (input == "open") {
 			clearAllVectors(*mbox);
 			mbox->fileInput.clear(); //clear the vector so we can put in a real file name later
 			cout << "Please enter a mailfile to open (example: mbox.txt)" << endl;
@@ -119,8 +132,25 @@ int main() {
 
 			menuOptions();
 			cin >> input;
-		}
-		else if (file == "default") {
+		} else if (input == "POP3") {
+			
+			//two functions needed for curl
+			mailSrv->mailboxInfo(*mailSrv);
+			mailSrv->mailboxMessages(*mailSrv);
+			keepFile = mailSrv->usrName[0] + ".txt"; //create a .txt to store the message we just got
+			
+			mailSrv->saveMailSrv(*mailSrv, keepFile);
+			readMbox(*mbox, keepFile);
+			parseMessages(*mbox);
+
+			menuOptions();
+			cin >> input;
+
+
+			//clearAllVectors(*mbox); //all mailbox vectors not curl
+			//mbox->fileInput.clear();
+
+		} else if (file == "default") {
 			readMbox(*mbox, mbox->fileInput[0]);
 			parseMessages(*mbox);
 
@@ -330,7 +360,7 @@ void parseMessages(Mailbox &mailbox) {
 		}
 	}
 
-	//Finds the From headers that I actually do want
+	//Finds the From headers that I actually do want 
 	for (auto line = mailbox.contentsVec.begin(); line != mailbox.contentsVec.end(); ++line) {
 		for (auto word = keyWordFrom.begin(); word != keyWordFrom.end(); ++word) {
 			if (line->find(*word) != std::string::npos) {
@@ -474,6 +504,7 @@ void menuOptions() {
 	cout << "list    - Lists headers from all mail messages " << endl;
 	cout << "append  - prompts for filename, if file exists and is readable, appends mail message in the given file to the mail file " << endl;
 	cout << "open    - open a different mail file " << endl;
+	cout << "POP3    - Connect to the engineering POP3 server " << endl;
 	cout << "quit    - exits the application " << endl;
 	cout << "delete  - deletes a message specified by the user (an integer value, 1 deletes message #1)" << endl;
 	cout << "display - displays a message specified by the user (an int value)" << endl;
